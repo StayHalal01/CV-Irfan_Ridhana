@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+  
+  
+  .navbar-brand{
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-link {
+    font-size: 18px;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .imge {
+    margin-top: 25%;
+  }
+  
+  .edu {
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 20%;
+  }
+
+  .exp {
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 20%;
+  }
+
+  h1 {
+    font-family: 'Passion One', cursive;;
+  }
+
+  .carousel-inner {
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 1px 2px 5px black;
+  }
+
